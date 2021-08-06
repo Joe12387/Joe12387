@@ -1,5 +1,5 @@
-I am available for hire.
+I am available for hire in the New York area.
 
 I have over 10 years experience in web development & information security.
 
-I work remotely and will not accept any other position.
+I only work remotely.
