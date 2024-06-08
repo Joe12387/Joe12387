@@ -21,5 +21,6 @@ These project(s) are currently stagnant or deprecated in favor of an unreleased 
 
 Also, I don't have anywhere to put my list of reported security vulnerabilities, so here they are:
 
+- Reported March 2024: [Bugzilla 1885471](https://bugzilla.mozilla.org/show_bug.cgi?id=1885471) - addressed in Firefox 127
 - Reported March 2024: [CVE-2024-27830](https://github.com/Joe12387/safari-canvas-fingerprinting-exploit) - addressed in Safari 17.5
 - Reported August 2022: [\[brave/brave-browser\] Issue #24681](https://github.com/brave/brave-browser/issues/24681) - addressed in Brave 1.47
