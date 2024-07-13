@@ -2,7 +2,7 @@ I'm a software developer specializing in information security, reverse engineeri
 
 I maintain several open source repositories here on GitHub.
 
-You can contact me at Joe@dreggle.com. My PGP key is available [here](https://keys.openpgp.org/search?q=Joe%40dreggle.com) if you for some reason require increased confidentiality.
+You can contact me at Joe@dreggle.com. My PGP key is available [here](https://keys.openpgp.org/search?q=Joe%40dreggle.com) if for some reason you require increased confidentiality.
 
 That's about it.
 
