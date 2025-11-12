@@ -1,18 +1,20 @@
 I'm a software developer specializing in information security, reverse engineering, browser fingerprinting & bot detection.
 
-I maintain several open source repositories here on GitHub.
+I partially own and operate [OverpoweredJS](https://overpoweredjs.com/), a browser fingerprinting and web security service.
 
-You can contact me at Joe@dreggle.com. My PGP key is available [here](https://keys.openpgp.org/search?q=Joe%40dreggle.com) if for some reason you require increased confidentiality.
+I also maintain several open source repositories here on GitHub.
+
+You can contact me at Joe@dreggle.com. My PGP key is available [here](https://keys.openpgp.org/search?q=Joe%40dreggle.com) if you require increased confidentiality.
 
 That's about it.
 
 --
 
-Here are my current active projects as of September 2024:
+Here are my current active projects as of November 2025:
 
-- [OverpoweredJS](https://overpoweredjs.com/) - OverpoweredJS is a replacement of the deprecated [OPFS](https://github.com/Joe12387/OP-Fingerprinting-Script) browser fingerprinting library. It features an API designed to be able to track Chromium browser instances with incredible accuracy and uniqueness. Feel free to contact me if you're interested in a particular use case of browser fingerprinting and I may be able to work on a solution for you.
+- [OverpoweredJS](https://overpoweredjs.com/) - Startup founded by myself and my full time job. Focused on browser tracking, fraud detection, and punching bad guys.
 - [detectIncognito](https://github.com/Joe12387/detectIncognito) - A TypeScript/JavaScript library for detecting the use of incognito mode or a similar private browsing mode when a browser visits a site. Works with all browsers with compatability for old browsers going back approximately 10 years.
-- [Browser Fingerprinting Resistance Research](https://github.com/Joe12387/browser-fingerprinting-resistance-research) - Documentation on the current state of browser fingerprinting, browsers' attempts at mitigating such techniques, and the current traceability of all browsers (hint: it's almost all of them).
+- [Browser Fingerprinting Resistance Research](https://github.com/Joe12387/browser-fingerprinting-resistance-research) - Documentation on the current state of browser fingerprinting, browsers' attempts at mitigating such techniques, and the current traceability of all browsers.
 
 --
 
