@@ -12,9 +12,8 @@ That's about it.
 
 Here are my current active projects as of November 2025:
 
-- [OverpoweredJS](https://overpoweredjs.com/) - Startup founded by myself and my full time job. Focused on browser tracking, fraud detection, and punching bad guys.
+- [OverpoweredJS](https://overpoweredjs.com/) - Startup founded by myself and my full time job. Focused on browser tracking, fraud detection, bot detection, and related signals.
 - [detectIncognito](https://github.com/Joe12387/detectIncognito) - A TypeScript/JavaScript library for detecting the use of incognito mode or a similar private browsing mode when a browser visits a site. Works with all browsers with compatability for old browsers going back approximately 10 years.
-- [Browser Fingerprinting Resistance Research](https://github.com/Joe12387/browser-fingerprinting-resistance-research) - Documentation on the current state of browser fingerprinting, browsers' attempts at mitigating such techniques, and the current traceability of all browsers.
 
 --
 
