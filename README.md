@@ -1,7 +1,5 @@
 I'm a software developer specializing in information security, reverse engineering, browser fingerprinting & bot detection.
 
-I partially own and operate [OverpoweredJS](https://overpoweredjs.com/), a browser fingerprinting and web security service.
-
 I also maintain several open source repositories here on GitHub.
 
 You can contact me at Joe@dreggle.com. My PGP key is available [here](https://keys.openpgp.org/search?q=Joe%40dreggle.com) if you require increased confidentiality.
@@ -10,10 +8,11 @@ That's about it.
 
 --
 
-Here are my current active projects as of November 2025:
+Here are my current active projects as of April 2026:
 
-- [OverpoweredJS](https://overpoweredjs.com/) - Startup founded by myself and my full time job. Focused on browser tracking, fraud detection, bot detection, and related signals.
-- [detectIncognito](https://github.com/Joe12387/detectIncognito) - A TypeScript/JavaScript library for detecting the use of incognito mode or a similar private browsing mode when a browser visits a site. Works with all browsers with compatability for old browsers going back approximately 10 years.
+- [Established Emails](https://establishedemails.com/) - Positive email reputation API for fraud teams, able to determine minimum age of billions of emails.
+- [OverpoweredJS](https://overpoweredjs.com/) - API focused on browser tracking, fraud detection, bot detection, and related signals.
+- [detectIncognito](https://github.com/Joe12387/detectIncognito) - A TypeScript/JavaScript library for detecting the use of incognito mode or a similar private browsing mode when a browser visits a site. Works with all browsers with compatability for old browsers going back approximately 10 years. Approximately 1M downloads per month.
 
 --
 
