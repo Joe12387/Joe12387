@@ -8,10 +8,8 @@ That's about it.
 
 --
 
-Here are my current active projects as of April 2026:
+Here are my current active projects as of August 2026:
 
-- [Established Emails](https://establishedemails.com/) - Positive email reputation API for fraud teams, able to determine minimum age of billions of emails.
-- [OverpoweredJS](https://overpoweredjs.com/) - API focused on browser tracking, fraud detection, bot detection, and related signals.
 - [detectIncognito](https://github.com/Joe12387/detectIncognito) - A TypeScript/JavaScript library for detecting the use of incognito mode or a similar private browsing mode when a browser visits a site. Works with all browsers with compatability for old browsers going back approximately 10 years. Approximately 1M downloads per month.
 
 --
