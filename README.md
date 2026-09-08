@@ -8,8 +8,9 @@ That's about it.
 
 --
 
-Here are my current active projects as of August 2026:
+Here are my current active projects as of September 2026:
 
+- [Browser Nerds](https://browsernerds.com/) - A browser fingerprinting project, with explainers.
 - [detectIncognito](https://github.com/Joe12387/detectIncognito) - A TypeScript/JavaScript library for detecting the use of incognito mode or a similar private browsing mode when a browser visits a site. Works with all browsers with compatability for old browsers going back approximately 10 years. Approximately 1M downloads per month.
 
 --
